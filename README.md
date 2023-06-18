@@ -1,4 +1,5 @@
 ![MasterHead](https://github.com/samara6855/samara6855/blob/main/ProfileBanner.gif)
+
 <h1 align="center">Hi 👋, I'm Yasani Samara Simha Reddy</h1>
 <h3 align="center">A passionate software developer</h3>
 <img align="right" alt="Coding" width="400" src="https://media2.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
