@@ -12,7 +12,7 @@
 
 - 🌱 Check out my Blog [Hashnode](https://yssr.hashnode.dev/)
 
-- 📫 How to reach me **yasanisamarasimhareddy@gmail.com**
+- 📫 How to reach me: **yasanisamarasimhareddy@gmail.com**
 
 
 ## 🌐 Socials:
