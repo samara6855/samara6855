@@ -23,5 +23,3 @@
 # 📊 GitHub Stats:
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=samara6855&show_icons=true&locale=en&layout=compact" alt="samara6855" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=samara6855&show_icons=true&locale=en" alt="samara6855" /></p>
-
