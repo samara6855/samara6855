@@ -10,7 +10,7 @@
 
 - 🔭 Check out my Portfolio! [Portfolio](https://samara6855.github.io/Portfolio/)
 
-- 🌱 Check out my Blog [Hashnode](https://yssr.hashnode.dev/)
+- 🌱 Check out my Blog: [Hashnode](https://yssr.hashnode.dev/)
 
 - 📫 How to reach me: **yasanisamarasimhareddy@gmail.com**
 
