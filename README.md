@@ -6,7 +6,7 @@
 
 <p align="left"> <a href="https://twitter.com/Manojreddy685" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🔭 Check out my Portfolio! [Portfolio](https://samara6855.github.io/Portfolio/)
+- 🔭 Check out my Portfolio! [Portfolio](https://yssr.netlify.app/)
 
 - 🌱 Check out my Blog [Hashnode](https://yssr.hashnode.dev/)
 
