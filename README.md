@@ -27,5 +27,7 @@
 # 📊 GitHub Stats:
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=samara6855&show_icons=true&locale=en&layout=compact" alt="samara6855" /></p>
 
+[![Samara's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=samara6855&theme=merko)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
 [![An image of @samara6855's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/samara6855)](https://holopin.io/@samara6855)
 
