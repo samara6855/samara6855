@@ -30,7 +30,7 @@
 
 [![Samara's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=samara6855&theme=merko)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
-# Open Source Contributions
+# 🎆 Open Source Contributions
 
 [![An image of @samara6855's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/samara6855)](https://holopin.io/@samara6855)
 
