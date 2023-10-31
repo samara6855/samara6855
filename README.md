@@ -13,10 +13,10 @@
 - 📫 How to reach me: **yasanisamarasimhareddy@gmail.com**
 
 
-## 🌐 Socials:
+# 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/yasani-samara-simha-reddy) 
 
-<h2><img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px>💻 Skills </h2>
+<h1><img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px>💻 Skills </h1>
 <br>
 <p align="center">
   <a href="https://skillicons.dev">
@@ -24,10 +24,12 @@
   </a>
 </p>
 
-# 📊 GitHub Stats:
+# 📊 GitHub Stats
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=samara6855&show_icons=true&locale=en&layout=compact" alt="samara6855" /></p>
 
 [![Samara's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=samara6855&theme=merko)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+# Open Source Contributions
 
 [![An image of @samara6855's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/samara6855)](https://holopin.io/@samara6855)
 
