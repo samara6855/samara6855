@@ -9,15 +9,6 @@
 <h1 align="center">Hi 👋, I'm Yasani Samara Simha Reddy</h1>
 <h3 align="center">A passionate software developer</h3>
 
------
-
-<p align="center">
- 
-![image](https://user-images.githubusercontent.com/61057666/169029838-74df663d-2e62-4d77-bdff-b43f7d63f00f.png)
-
-</p>
-
------
 <img align="right" alt="Coding" width="400" src="https://media2.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
 
 <p align="left"> <a href="https://twitter.com/Manojreddy685" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
