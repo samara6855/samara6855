@@ -1,5 +1,11 @@
 ![MasterHead](https://github.com/samara6855/samara6855/blob/main/GithubGif.gif)
 
+<p align="center">
+ 
+![image](https://user-images.githubusercontent.com/61057666/169029838-74df663d-2e62-4d77-bdff-b43f7d63f00f.png)
+
+</p>
+
 <h1 align="center">Hi 👋, I'm Yasani Samara Simha Reddy</h1>
 <h3 align="center">A passionate software developer</h3>
 
