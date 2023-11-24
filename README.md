@@ -6,6 +6,8 @@
 
 </p>
 
+-----
+
 <h1 align="center">Hi 👋, I'm Yasani Samara Simha Reddy</h1>
 <h3 align="center">A passionate software developer</h3>
 
