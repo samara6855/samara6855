@@ -1,7 +1,6 @@
 ![MasterHead](https://github.com/samara6855/samara6855/blob/main/GithubGif.gif)
 <h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>, I'm Samara Simha Reddy Yasani</h1>
 <h2 align="center">A Passionate Software Developer</h2>
-
 <img align="right" alt="Coding" width="400" src="https://media2.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
 
 <p align="left"> <a href="https://twitter.com/Manojreddy685" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
