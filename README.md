@@ -9,10 +9,6 @@
 
 ---
 
-<p align="center">
-  <a href="https://twitter.com/Manojreddy685" target="_blank"><img src="https://img.shields.io/twitter/follow/Manojreddy685?logo=twitter&style=for-the-badge" alt="Twitter"/></a>
-</p>
-
 ### 🔭 Projects and Blogs:
 - 🖥️ **Portfolio:** [Visit Here](https://yssr.netlify.app/)
 - ✍️ **Blog:** [Hashnode](https://yssr.hashnode.dev/)
